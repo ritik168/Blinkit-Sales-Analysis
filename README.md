@@ -54,3 +54,9 @@
 
 #### Multiple CSV files located in /data/ folder (sales, vendors, inventory)
 #### Summary table created from ingested data and used for analysis
+
+## Tools & Technologies
+
+Python (Pandas, Matplotlib, Seaborn, SciPy)
+
+GitHub
