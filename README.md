@@ -50,3 +50,7 @@
 	Additional KPI Metrics: Assess how other KPIs (Average Sales, Number of Items, Average Rating) vary with fat content.
 	Chart Type: Stacked Column Chart.
 
+## Datasets
+
+#### Multiple CSV files located in /data/ folder (sales, vendors, inventory)
+#### Summary table created from ingested data and used for analysis
