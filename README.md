@@ -5,14 +5,25 @@
 
 ## 📌 Table of Contents
 .Overview
+
 .Business Problem
+
 .Dataset
+
 .Tools & Technologies
+
 .Project Structure
+
 .Data Cleaning & Preparation
+
 .Exploratory Data Analysis (EDA)
+
 .Research Questions & Key Findings
+
 .Dashboard
+
 .How to Run This Project
+
 .Final Recommendations
+
 .Author & Contact
