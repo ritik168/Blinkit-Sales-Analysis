@@ -4,26 +4,26 @@
 ![Blinkit Sales Analysis](https://github.com/ritik168/Blinkit-Sales-Analysis/blob/main/blinkit_logo.png)
 
 ## 📌 Table of Contents
-.Overview
+. Overview
 
-.Business Problem
+. Business Problem
 
-.Dataset
+. Dataset
 
-.Tools & Technologies
+. Tools & Technologies
 
-.Project Structure
+. Project Structure
 
-.Data Cleaning & Preparation
+. Data Cleaning & Preparation
 
-.Exploratory Data Analysis (EDA)
+. Exploratory Data Analysis (EDA)
 
-.Research Questions & Key Findings
+. Research Questions & Key Findings
 
-.Dashboard
+. Dashboard
 
-.How to Run This Project
+. How to Run This Project
 
-.Final Recommendations
+. Final Recommendations
 
-.Author & Contact
+. Author & Contact
